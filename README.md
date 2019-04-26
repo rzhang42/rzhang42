@@ -7,11 +7,6 @@ Description
 
 MNIST ("Modified National Institute of Standards and Technology") is the de facto “hello world” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
 
-Skills
-
-Computer vision fundamentals including simple neural networks
-Classification methods such as SVM and K-nearest neighbors
-
 Goal
 
 The goal is to take an image of a handwritten single digit, and determine what that digit is.
